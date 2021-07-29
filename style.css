@@ -1,0 +1,125 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#myNavbar {
+    background-color:rgb(255, 255, 255);
+}
+
+ #about {
+    background-image: url("download.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#icon {
+    width: 250px;
+    height: 250px;
+    border-width: 3px;
+    border-radius: 360px;
+    border-style:dotted;
+    border-color: lavender;
+}
+
+#bio {
+    font-size: 40px;
+    color: rgb(117, 102, 117);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#whitehat {
+    width: 70px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 176, 251);
+}
+
+#goal2 {
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+#goal {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#tips {
+    background-image: url("download.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#ahh {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#tipp {
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(75, 72, 75);
+}
+
+#text4vid1 {
+    font-size: 12px;
+}
+
+#thumbnail1 {
+    width: 330px;
+    height: 250px;
+}
+
+#thumbnail2 {
+    width: 330px;
+    height: 210px;
+}
+
+#thumbnail3 {
+    width: 330px;
+    height: 210px;
+}
+
+#cmore {
+    width: 90px;
+    height: 38px;
+    font-size: 15px;
+    color: blueviolet;
+    background-color: rgb(216, 173, 196);
+}
+
+#viddd {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#textmsg {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#quote {
+    font-size: 24px;
+}
+
+#msg1 {
+    background-image: url("download.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#textmsg {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#whatsnext {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#titleheadline {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+} 
